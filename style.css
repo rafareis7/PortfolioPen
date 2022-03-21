@@ -51,6 +51,16 @@ body {
   border-radius: 100px;
 }
 
+.redes {
+  display: flex;
+  align-self: flex-end;
+  mmargin-bottom: 32px;
+}
+.redes img {
+  max-width: 48px;
+  max-heigh: 36px;
+}
+
 .projetos {
   display: flex;
   flex-direction: column;
